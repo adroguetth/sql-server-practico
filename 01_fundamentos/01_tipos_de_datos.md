@@ -144,4 +144,4 @@ id_global       UNIQUEIDENTIFIER     -- '6F9619FF-8B86-D011-B42D-00C04FC964FF'
 
 ---
 
-> 📁 Siguiente sección: [01 - Recomendaciones](./recomendaciones.md)
+> 📁 Siguiente sección: [./recomendaciones.md](https://github.com/adroguetth/sql-server-practico/blob/main/01_fundamentos/02_recomendaciones.md)
