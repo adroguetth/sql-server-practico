@@ -144,4 +144,4 @@ id_global       UNIQUEIDENTIFIER     -- '6F9619FF-8B86-D011-B42D-00C04FC964FF'
 
 ---
 
-> 📁 Siguiente sección: [02 - Comandos DDL](./02_DDL.md)
+> 📁 Siguiente sección: [01 - Recomendaciones](./recomendaciones.md)
